@@ -1,0 +1,19 @@
+h5 {
+	display: none;
+}
+
+#omstart {
+	display: none;
+}
+
+h1,
+h2,
+p {
+	color: rgb(169, 19, 16);
+}
+
+h3,
+h4,
+h5 {
+	color: rgb(6, 68, 6);
+}
